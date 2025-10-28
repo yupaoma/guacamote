@@ -2,4 +2,9 @@ avocado
 salt 
 lime
 tomato
+<<<<<<< Updated upstream
 black pepper
+=======
+<<<<<<< HEAD
+jalepeneos
+>>>>>>> Stashed changes
