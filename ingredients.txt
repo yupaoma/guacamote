@@ -2,4 +2,5 @@ avocado
 salt 
 lime
 tomato
-jalepenos
+jalapenos
+
